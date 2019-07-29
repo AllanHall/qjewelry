@@ -1,0 +1,76 @@
+{
+  "swamp": [
+    {
+      "name": "Natural Gemstone Beaded Stretch Bracelet",
+      "description": "1 Green Adventurine Stone",
+      "precision": "12 Charms",
+      "price": "17.95"
+    },
+    {
+      "name": "Light Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Dark Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Antique Silver",
+      "description": "Snake Charm",
+      "precision": "34.5 x 12mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Antique Silver",
+      "description": "Spider Charm",
+      "precision": "18 x 14mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Green Organza Ribbon and Waxed Cord",
+      "description": "17.5\" with 2\" extender chain",
+      "precision": "4 Charms",
+      "price": "5.50"
+    },
+    {
+      "name": "Antique Silver",
+      "description": "Small Alligator",
+      "precision": "16.5 x 13.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Antique Silver",
+      "description": "Large Crocodile",
+      "precision": "25.5 x 15.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Olive Green Leather Braided Charm Bracelet",
+      "description": "7.25\"",
+      "precision": "5 charms",
+      "price": "6.75"
+    },
+    {
+      "name": "Antique Silver",
+      "description": "Snake",
+      "precision": "26 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Drain the Swamp",
+      "description": "Stainless Steel Round Charm",
+      "precision": "15mm",
+      "price": "6.50"
+    },
+    {
+      "name": "Drain the Swamp",
+      "description": "Black/Silver Silicone",
+      "precision": "Watch Band",
+      "price": "5.50"
+    }
+  ]
+}
