@@ -72,5 +72,407 @@
       "precision": "Watch Band",
       "price": "5.50"
     }
+  ],
+  "trump": [
+    {
+      "name": "Natural Gemstone Beaded Stretch Bracelet",
+      "description": "1 Green Adventurine Stone",
+      "precision": "12 Charms",
+      "price": "17.95"
+    },
+    {
+      "name": "Light Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Dark Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Antique Silver",
+      "description": "Snake Charm",
+      "precision": "34.5 x 12mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Antique Silver",
+      "description": "Spider Charm",
+      "precision": "18 x 14mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Green Organza Ribbon and Waxed Cord",
+      "description": "17.5\" with 2\" extender chain",
+      "precision": "4 Charms",
+      "price": "5.50"
+    }
+  ],
+  "spinner": [
+    {
+      "name": "Natural Gemstone Beaded Stretch Bracelet",
+      "description": "1 Green Adventurine Stone",
+      "precision": "12 Charms",
+      "price": "17.95"
+    },
+    {
+      "name": "Light Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Dark Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    }
+  ],
+  "rabbit": [
+    {
+      "name": "Natural Gemstone Beaded Stretch Bracelet",
+      "description": "1 Green Adventurine Stone",
+      "precision": "12 Charms",
+      "price": "17.95"
+    },
+    {
+      "name": "Light Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Dark Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Natural Gemstone Beaded Stretch Bracelet",
+      "description": "1 Green Adventurine Stone",
+      "precision": "12 Charms",
+      "price": "17.95"
+    },
+    {
+      "name": "Light Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Dark Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    }
+  ],
+  "pill": [
+    {
+      "name": "Natural Gemstone Beaded Stretch Bracelet",
+      "description": "1 Green Adventurine Stone",
+      "precision": "12 Charms",
+      "price": "17.95"
+    },
+    {
+      "name": "Light Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Dark Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Natural Gemstone Beaded Stretch Bracelet",
+      "description": "1 Green Adventurine Stone",
+      "precision": "12 Charms",
+      "price": "17.95"
+    },
+    {
+      "name": "Light Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Dark Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Light Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Dark Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    }
+  ],
+  "show": [
+    {
+      "name": "Natural Gemstone Beaded Stretch Bracelet",
+      "description": "1 Green Adventurine Stone",
+      "precision": "12 Charms",
+      "price": "17.95"
+    },
+    {
+      "name": "Light Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Dark Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Natural Gemstone Beaded Stretch Bracelet",
+      "description": "1 Green Adventurine Stone",
+      "precision": "12 Charms",
+      "price": "17.95"
+    },
+    {
+      "name": "Light Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    }
+  ],
+  "q": [
+    {
+      "name": "Natural Gemstone Beaded Stretch Bracelet",
+      "description": "1 Green Adventurine Stone",
+      "precision": "12 Charms",
+      "price": "17.95"
+    },
+    {
+      "name": "Light Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Dark Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Natural Gemstone Beaded Stretch Bracelet",
+      "description": "1 Green Adventurine Stone",
+      "precision": "12 Charms",
+      "price": "17.95"
+    },
+    {
+      "name": "Light Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    }
+  ],
+  "move": [
+    {
+      "name": "Natural Gemstone Beaded Stretch Bracelet",
+      "description": "1 Green Adventurine Stone",
+      "precision": "12 Charms",
+      "price": "17.95"
+    },
+    {
+      "name": "Light Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Dark Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Natural Gemstone Beaded Stretch Bracelet",
+      "description": "1 Green Adventurine Stone",
+      "precision": "12 Charms",
+      "price": "17.95"
+    },
+    {
+      "name": "Light Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    }
+  ],
+  "gold": [
+    {
+      "name": "Natural Gemstone Beaded Stretch Bracelet",
+      "description": "1 Green Adventurine Stone",
+      "precision": "12 Charms",
+      "price": "17.95"
+    },
+    {
+      "name": "Light Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Dark Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Natural Gemstone Beaded Stretch Bracelet",
+      "description": "1 Green Adventurine Stone",
+      "precision": "12 Charms",
+      "price": "17.95"
+    },
+    {
+      "name": "Light Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    }
+  ],
+  "silver": [
+    {
+      "name": "Natural Gemstone Beaded Stretch Bracelet",
+      "description": "1 Green Adventurine Stone",
+      "precision": "12 Charms",
+      "price": "17.95"
+    },
+    {
+      "name": "Light Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Dark Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Natural Gemstone Beaded Stretch Bracelet",
+      "description": "1 Green Adventurine Stone",
+      "precision": "12 Charms",
+      "price": "17.95"
+    },
+    {
+      "name": "Light Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    }
+  ],
+  "rose": [
+    {
+      "name": "Natural Gemstone Beaded Stretch Bracelet",
+      "description": "1 Green Adventurine Stone",
+      "precision": "12 Charms",
+      "price": "17.95"
+    },
+    {
+      "name": "Light Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Dark Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Natural Gemstone Beaded Stretch Bracelet",
+      "description": "1 Green Adventurine Stone",
+      "precision": "12 Charms",
+      "price": "17.95"
+    },
+    {
+      "name": "Light Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    }
+  ],
+  "metal": [
+    {
+      "name": "Natural Gemstone Beaded Stretch Bracelet",
+      "description": "1 Green Adventurine Stone",
+      "precision": "12 Charms",
+      "price": "17.95"
+    },
+    {
+      "name": "Light Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Dark Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Natural Gemstone Beaded Stretch Bracelet",
+      "description": "1 Green Adventurine Stone",
+      "precision": "12 Charms",
+      "price": "17.95"
+    },
+    {
+      "name": "Light Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    }
+  ],
+  "snap": [
+    {
+      "name": "Natural Gemstone Beaded Stretch Bracelet",
+      "description": "1 Green Adventurine Stone",
+      "precision": "12 Charms",
+      "price": "17.95"
+    },
+    {
+      "name": "Light Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Dark Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    },
+    {
+      "name": "Natural Gemstone Beaded Stretch Bracelet",
+      "description": "1 Green Adventurine Stone",
+      "precision": "12 Charms",
+      "price": "17.95"
+    },
+    {
+      "name": "Light Green Enamel Charm",
+      "description": "Letter Q Earrings",
+      "precision": "14 x 11.5mm",
+      "price": "5.50"
+    }
   ]
 }
